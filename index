@@ -17,6 +17,34 @@
 
 
 <div>
+
+
+
+styles
+body {
+    color: black;
+    background: hsl(60, 73%, 80%);
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+}
+
+section {
+    background: hsl(32, 72%, 62%);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkrX9McxszQ?si=G5vdd2BLikH6_l6i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
